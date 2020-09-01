@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-int x = 90;
-||||||| merged common ancestors
 int x = 70;
-=======
-int x = 80;
->>>>>>> branch
